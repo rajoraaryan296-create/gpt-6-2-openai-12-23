@@ -1,0 +1,2 @@
+# gpt-6-2-openai-12-23
+OpenAI 已确认：从 2026 年 12 月 23 日起，将在 ChatGPT 的 Chat 标签页停用 GPT-5.6 Sol，并在 Work 与 Codex 同时停用 GPT-5.6 Sol 和 GPT-5.6 Terra。面向日常对话优化的 GPT-6.2 Sol，也已开始向付费用户推送。
